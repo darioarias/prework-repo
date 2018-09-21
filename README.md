@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-<img src="https://gph.is/2NYMlKJ" width=200><br>
+<img src="HelloWordApp.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
